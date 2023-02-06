@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TP3-Jogo-da-Forca">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TP3-Jogo-da-Forca.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
